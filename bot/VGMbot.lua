@@ -220,21 +220,21 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {142806212,178618864,0,tonumber(our_id)},--Sudo users
+    sudo_users = {169696773,108151290,178618864,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[The King Manager
+    about_text = [[The ZSgroup
 
 EN
 Manager Your Groups
 Admin Of Bot
-@SH_R2721 [ Developer& manager]
+@Hazrateh_Bi_Asab [ Hazrat& ZSgroup]
 
 FA
 مدیر گروه های شما
 ادمین 
-@SH_R2721 [سازنده ومدیر]
+@Hazrateh_Bi_Asab [سازنده ومدیر]
 ]],
     help_text = [[
 Commands list :
@@ -341,7 +341,8 @@ will return group ban list
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only owner can use res,setowner,promote,demote and log commands
-
+جهت ارتباط با ادمین به ای دی زیر مراجعه کنید.ریپورتم قبلش دهتا استیکر بدید ممنون.
+@Hazrateh_Bi_Asab
 ]]
 
   }
